@@ -1,0 +1,23 @@
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Modern Sliding Sidebar - C-Sharp Winform.exe.config
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Modern Sliding Sidebar - C-Sharp Winform.exe
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Modern Sliding Sidebar - C-Sharp Winform.pdb
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Guna.UI.dll
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.csprojResolveAssemblyReference.cache
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern_Sliding_Sidebar___C_Sharp_Winform.Form1.resources
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern_Sliding_Sidebar___C_Sharp_Winform.Properties.Resources.resources
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.csproj.GenerateResource.Cache
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.exe
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.pdb
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Modern Sliding Sidebar - C-Sharp Winform.exe.config
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Modern Sliding Sidebar - C-Sharp Winform.exe
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Modern Sliding Sidebar - C-Sharp Winform.pdb
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern_Sliding_Sidebar___C_Sharp_Winform.Form1.resources
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern_Sliding_Sidebar___C_Sharp_Winform.Properties.Resources.resources
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.csproj.CopyComplete
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.exe
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.pdb
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Documents\Modern-Sliding-Sidebar-CSharp-Winform-main\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Newtonsoft.Json.xml
